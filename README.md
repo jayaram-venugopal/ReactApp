@@ -13,3 +13,25 @@ npm start
 ```
 
 Then open [`localhost:3000`](http://localhost:3000) in a browser.
+
+## Snapshot
+
+HomeScreen
+
+![Home Screen](images/HomeScreen.png)
+
+PlaceOrder
+
+![Confirm Order](images/ConfirmOrder.png)
+
+CustomerDetails
+
+![Confirm Order](images/PlaceOrder.png)
+
+OrderList
+
+![OrderList](images/OrderList.png)
+
+MobileView
+
+![OrderList](images/MobileView.png)
